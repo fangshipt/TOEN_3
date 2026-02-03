@@ -27,3 +27,5 @@ sections/
 - CSS
 - JavaScript (Fetch API)
 - Git & GitHub
+
+Phiên bản Release 1.0 - Đã kiểm thử thành công
